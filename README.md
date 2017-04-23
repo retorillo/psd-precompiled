@@ -15,4 +15,4 @@ const PSD = require('psd-precompiled');
 
 | psd-precompiled | psd   |
 |-----------------|-------|
-| 1.0.0           | 3.1.0 |
+| 1.0.1           | 3.1.0 |

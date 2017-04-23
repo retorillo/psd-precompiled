@@ -1,6 +1,6 @@
 {
   "name": "psd-precompiled",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A precompiled meltingice/psd.js",
   "main": "./index.js",
   "scripts": {
@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com:retorillo/psd-precompiled.git"
+    "url": "git+https://github.com/retorillo/psd-precompiled.git"
   },
   "author": "retorillo",
   "license": "MIT",
