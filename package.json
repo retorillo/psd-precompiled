@@ -1,0 +1,41 @@
+{
+  "name": "psd-precompiled",
+  "version": "1.0.0",
+  "description": "A precompiled meltingice/psd.js",
+  "main": "./index.js",
+  "scripts": {
+    "test": "node node_modules/mocha/bin/_mocha"
+  },
+  "keywords": [
+    "psd",
+    "parser",
+    "photoshop",
+    "adobe",
+    "reader"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com:retorillo/psd-precompiled.git"
+  },
+  "author": "retorillo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/retorillo/psd-precompiled/issues"
+  },
+  "homepage": "https://github.com/retorillo/psd-precompiled#readme",
+  "dependencies": {
+    "jspack": "~0.0.3",
+    "parse-engine-data": "~0.1",
+    "pngjs": "~0.4.0",
+    "rsvp": "~3.0.6",
+    "lodash": "~2.4",
+    "iconv-lite": "~0.4.4"
+  },
+  "devDependencies": {
+    "browserify": "^14.3.0",
+    "coffeeify": "^2.1.0",
+    "coffeescript-module": "~0.2.1",
+    "mocha": "^3.2.0",
+    "should": "^11.2.1"
+  }
+}

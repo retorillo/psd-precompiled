@@ -1,0 +1,3 @@
+[submodule "psd.js"]
+	path = psd.js
+	url = https://github.com/meltingice/psd.js.git
